@@ -1,0 +1,6 @@
+E:\WorkRelated\MyProjects\CarSimulator\Car_Simulator\Car_Simulator\x64\Debug\Car_Simulator.vcxproj.AssemblyReference.cache
+E:\WorkRelated\MyProjects\CarSimulator\Car_Simulator\Car_Simulator\x64\Debug\CarSimulator.CarSimulator.resources
+E:\WorkRelated\MyProjects\CarSimulator\Car_Simulator\Car_Simulator\x64\Debug\Car_Simulator.vcxproj.GenerateResource.cache
+E:\WorkRelated\MyProjects\CarSimulator\Faf\Car_Simulator\Car_Simulator\x64\Debug\Car_Simulator.vcxproj.AssemblyReference.cache
+E:\WorkRelated\MyProjects\CarSimulator\Faf\Car_Simulator\Car_Simulator\x64\Debug\CarSimulator.CarSimulator.resources
+E:\WorkRelated\MyProjects\CarSimulator\Faf\Car_Simulator\Car_Simulator\x64\Debug\Car_Simulator.vcxproj.GenerateResource.cache
